@@ -1,11 +1,6 @@
 # portfolio
 
-              .             
-,-. ,-. ,-. ,-|   ,-,-. ,-. 
-|   |-' ,-| | |   | | | |-' 
-'   `-' `-^ `-^   ' ' ' `-'
-
 I have assembled a collection of my personal projets here for my application to Concordia's Computation Arts program.
-This website has been stripped of much private information (including personal email), as github requires directories to be public for pages.
+This website has been stripped of much personal information, as Github requires directories to be public for use of Pages.
 
-Respectfully, please refrain from contacting me unless you are the intended audience for this webpage (ie. Concordia University).
+Respectfully, this website is presented solely for the following parties: Concordia University.
