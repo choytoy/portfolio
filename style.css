@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Space Mono";
+    src: url("https://choytoy.github.io/portfolio/Fonts/Space_Mono/SpaceMono-Regular.ttf");
+}
+
+body {
+    font-family: "Space Mono", serif;
+}
+
+ul {
+    list-style-type: none;
+}
